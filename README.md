@@ -8,4 +8,7 @@
 #customs
 * 言葉を変えたりして
 
+#using 
+* .vimrcに貼り付ける
+
 
