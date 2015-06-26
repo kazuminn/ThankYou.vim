@@ -10,5 +10,10 @@
 
 #using 
 * .vimrcに貼り付ける
+* BundleInstall 'shougo/vimproc'する
+
+
+#課題
+* すべてのosで対応させる。supermomonga/shaberu.vimとか使うと便利
 
 
